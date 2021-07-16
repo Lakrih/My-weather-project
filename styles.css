@@ -1,0 +1,36 @@
+body {
+  background-image: url(https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+h1 {
+  color: white;
+  font-family: "Train One", cursive;
+  font-size: 35px;
+  text-align: center;
+  border-radius: 20px 15px;
+}
+h2 {
+  color: white;
+  font-family: "Train One", cursive;
+  background-color: wheat;
+  opacity: 0.6;
+  border-radius: 60px;
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 60px;
+  margin: 60px;
+}
+
+.weatherApp {
+  border: 3px solid white;
+  padding: 5px;
+  border-radius: 60px;
+  margin: 5px auto;
+  max-width: 750px;
+}
+
+.weekCards {
+  opacity: 0.6;
+  margin: 0 auto;
+  border-radius: 60px;
+  padding: 10px;
+}
